@@ -7,4 +7,9 @@ body{
         font-size:
         background: ;vg
         } 
-       
+        p{
+            color:black
+            font-family:darkgray ;
+            font-size::backdrop ;
+            background:first-line;
+            }
