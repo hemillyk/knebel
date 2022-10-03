@@ -9,7 +9,7 @@ body{
         } 
         p{
             color:rgb(92, 252, 0)
-            font-family:darkgray ;
-            font-size::backdrop ;
+            font-family:aquamarine ;
+            font-size::target-text
             background:first-line;
             }
